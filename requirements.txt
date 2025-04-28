@@ -1,0 +1,10 @@
+crewai
+langchain
+langchain-community
+python-dotenv
+pydantic
+autogen
+openai
+streamlit
+langchain_groq
+groq
